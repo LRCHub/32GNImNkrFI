@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トゥントゥントゥンサフールに恋している",
+  "base_artist": "ザビャン",
+  "createdAt": "2025-12-03T13:11:02.830912Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トゥントゥントゥンサフールに恋している",
+      "artist": "ザビャン",
+      "has_synced": false,
+      "path": "select/pl_01_トゥントゥントゥンサフールに恋している_ザビャン.txt"
+    }
+  ]
+}
